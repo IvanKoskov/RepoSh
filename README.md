@@ -11,7 +11,7 @@ Please consider customizing it as by default it is dummy values.
 
 3. Your directory should look something like this
 
-debs/
+```debs/```
   main/
     tweak1.deb
     tweak2.deb
@@ -23,6 +23,11 @@ debs/
 4. mkdir -p debs/main debs/testing debs/other
 
 5. Move to this directories 
+
+## Upload everything 
+
+After just run the shell script. By default it will allow you to customize the info before zipping the tweaks into packages archive.
+
 
 
 
