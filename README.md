@@ -12,13 +12,13 @@ Please consider customizing it as by default it is dummy values.
 3. Your directory should look something like this
 
 ```debs/```
-  main/
-    tweak1.deb
-    tweak2.deb
-  testing/
-    beta-tweak1.deb
-  other/
-    misc-tweak1.deb
+ ``` main/```
+  ```  tweak1.deb```
+   ``` tweak2.deb```
+ ``` testing/```
+  ```  beta-tweak1.deb```
+```  other/```
+  ```  misc-tweak1.deb```
 
 4. mkdir -p debs/main debs/testing debs/other
 
